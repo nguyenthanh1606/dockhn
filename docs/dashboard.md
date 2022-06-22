@@ -25,3 +25,32 @@ Các thành phần trong giao diện:
 - Công việc các công việc được giao đến quý khách.
 
 ![dashboard](_images/dashboard.jpeg)
+
+## Thông tin xe
+
+Trong mục tìm kiếm. nhập biển số hoặc imei xe cần tìm kiếm > chọn thông tin của xe.
+
+!> Lưu ý: để tải lại dữ liệu vui lòng click nút reload trên góc danh sách thiết bị. Một số lỗi khi bấm chọn xe nhưng không hiện xe, quý khách vui lòng tải lại trang.
+
+![dashboardInfo](_images/dashboard-info.png)
+
+## Tra cứu lịch sử
+
+Trong mục tìm kiếm. nhập biển số hoặc imei xe cần tìm kiếm > chọn lịch sử xe.
+
+- Chọn ngày cần tìm kiếm `tối đa 1 ngày`.
+- Click play để mô phỏng quá trình `di chuyển` của xe.
+- Click pause để tại `dừng`
+- Click download: `Đang cập nhật`.
+
+![dashboardHistory](_images/dashboard-history.png)
+
+## Báo cáo
+
+Trong mục tìm kiếm. nhập biển số hoặc imei xe cần tìm kiếm > chọn báo cáo xe.
+
+- Chọn ngày cần tra cứu. `Tối đa 30 ngày`.
+- Chọn loại báo cáo.
+- Bấm tìm kiếm.
+- Tải về: `Đang cập nhật`.
+![dashboardReport](_images/dashboard-report.png)

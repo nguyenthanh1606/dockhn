@@ -11,6 +11,7 @@ Các chức năng quản lý, theo dõi và chỉnh sửa thiết bị
         ├── Gia hạn thiết bị
         ├── Cấu hình thiết bị
         ├── Sửa thiết bị
+        ├── Quản lý tài xế
         ├── Xuất dữ liệu
         ├── Xóa thiết bị
     ├── ...
@@ -83,6 +84,41 @@ _* Để thoát hộp thoại: bấm vào màn hình xám phía ngoài._
 _* Để thoát hộp thoại: bấm `Close` hoặc vào màn hình xám phía ngoài._
 
 ![theodoitb](_images/sua-tb.jpeg)
+
+## Quản lý tài xế
+
+?> Trong mục `chi tiết thiết bị`. click vào icon tài xế để mở giao diện quản lý `tài xế`
+
+**Các chức năng chính:**
+```text
+.
+└── Quản trị hệ thống
+    ├── ...
+    ├── Quản trị thiết bị
+        ├── ...
+        ├── Quản lý tài xế
+            ├── Xem danh sách tài xế
+            ├── Chọn tài xế ưu tiên
+            ├── Thêm tài xế
+            ├── Xóa tài xế
+        ├── ...
+    ├── ...
+```
+![taotaixetb](_images/device-driver-main.png)
+
+**Tạo tài xế**
+- `Tên tài xế*`
+- `Số điện thoại*`
+- `Số CMND/CCCD*`
+- `Số GPLX*`
+- `Hạng lái xe`
+- `Ngày đăng ký`
+- `Ngày hết hạn*`
+- `regPlace`
+
+(*) là bắt buộc. Bấm `Lưu` để hoàn tất.
+
+_* Để thoát hộp thoại: bấm `Close` hoặc vào màn hình xám phía ngoài._
 
 ## Xuất dữ liệu
 
