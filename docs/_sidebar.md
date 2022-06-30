@@ -13,6 +13,7 @@
   - [Cấu hình hệ thống](system.md)
   - [Cấu hình camera](camera.md)
   - [Chỉnh sửa địa chỉ bản đồ](address.md)
+  - [Biên bản xử lý xe](devicetask.md)
   - [Chủ đề](topic.md)
   - [Hỏi đáp](faq.md)
 - Phân quyền & theo dõi
